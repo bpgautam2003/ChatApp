@@ -12,6 +12,12 @@
   border: 1px solid #ddd;
 }
 
+@media (max-width : 768px){
+  .all-chats-container{
+    width: 33%;
+  }
+}
+
 .all-chats-header {
   padding: 10px 0;
   font-size: 1.75rem;
